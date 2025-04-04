@@ -63,7 +63,9 @@ int main(void)
   for(size_t i = 1; i <= NUM_OF_TESTS; ++i) {
     int res = 0;
 
-    printf("Code test: %lu\n", i);
+    // printf("Code test: %lu\n", i);
+    printf("Code test %llu\n", i);
+
 
     // Key generation
     MEASURE("  keypair", res = crypto_kem_keypair(pk.val, sk.val););
@@ -87,7 +89,7 @@ int main(void)
 
     // Check test status
     if(dec_rc != 0) {
-      printf("Decoding failed after %ld code tests!\n", i);
+      printf("Decoding failed after %lld code tests!\n", i);
     } else {
       if(secure_cmp(k_enc.val, k_dec.val, sizeof(k_dec.val) / sizeof(uint64_t))) {
         printf("Success! decapsulated key is the same as encapsulated "

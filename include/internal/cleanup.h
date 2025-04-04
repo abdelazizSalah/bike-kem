@@ -8,6 +8,8 @@
 #pragma once
 
 #include "utilities.h"
+#include <windows.h>
+
 
 /* Runs _thecleanup function on _thealloc once _thealloc went out of scope */
 #define DEFER_CLEANUP(_thealloc, _thecleanup) \
