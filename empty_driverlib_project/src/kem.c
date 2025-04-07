@@ -224,7 +224,7 @@ int crypto_kem_enc(OUT unsigned char *     ct,
   get_seeds(&seeds);
 
   // e = H(m) = H(seed[0])
-  convert_seed_to_m_type(&m, &seeds.seed[0]);
+  convert_seed_to_m_type(&m, &seeds.seed[0]); //TODO: access seed[0] without prior check if it was empty or not -> may be a vulnerability
   GUARD(function_h(&e, &m, &l_pk));
 
   // Calculate the ciphertext
