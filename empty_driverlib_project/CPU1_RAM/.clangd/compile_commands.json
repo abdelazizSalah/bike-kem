@@ -1,0 +1,187 @@
+[
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/build/CMakeFiles/3.29.2/CompilerIdC/CMakeCCompilerId.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/cmake/test_endianess.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/device/device.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/common/cpu_features.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/common/error.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/common/utilities.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/decode/decode.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/decode/decode_avx2.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/decode/decode_avx512.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/decode/decode_portable.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_inv.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_ksqr_avx2.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_ksqr_avx512.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_ksqr_portable.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_mul.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_mul_avx2.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_mul_avx512.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_mul_base_pclmul.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_mul_base_portable.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_mul_base_vpclmul.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/gf2x/gf2x_mul_portable.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/kem.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/random/aes.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/random/aes_ctr_prf.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/random/sampling.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/random/sampling_avx2.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/random/sampling_avx512.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/random/sampling_portable.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/random/sha.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/random/shake_prf.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/src/third_party_src/fips202.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/tests/FromNIST/PQCgenKAT_kem.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/tests/FromNIST/rng.c"
+   },
+   {
+      "directory" : "E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/GitHub/bike-kem/empty_driverlib_project\" -I\"E:/GitHub/bike-kem/empty_driverlib_project/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -DCPU1 -I\"E:/GitHub/bike-kem/empty_driverlib_project/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/GitHub/bike-kem/empty_driverlib_project/tests/main_test.c"
+   }
+]
